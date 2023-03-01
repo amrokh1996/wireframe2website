@@ -1,7 +1,7 @@
 # wireframe2website
 > ### `website wireframe:`
 
-+ ![alt text](home.png)
-+ ![alt text](product.png)
-+ ![alt text](company.png)
-+ ![alt text](more.png)
++ ![alt text](image/home.png)
++ ![alt text](image/product.png)
++ ![alt text](image/company.png)
++ ![alt text](image/more.png)
